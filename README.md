@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello! I'm Mhmoud Shaban
 
-<!--
-**MhmoudShaban/MhmoudShaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Vue.js Developer with over 2 years of experience in building interactive and responsive web applications. I am passionate about creating efficient, high-performance solutions and continuously improving my skills to stay current with industry trends and best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages**: HTML5, CSS3, JavaScript
+- **Frameworks**: Vue.js Options API, Composition API, Vuetify
+- **Tools and Utilities**: SASS, REST API, Axios, JSON
+- **Operating Systems and Development Tools**: Linux OS, Postman
+- **Libraries and Tools**: jQuery, Bootstrap, Tailwind, Animate.css, GSAP
+- **Databases and Cloud Services**: Linux OS, Postman
+
+## Currently Seeking
+
+I am actively looking for new opportunities to apply my skills and contribute to exciting projects. Feel free to connect or reach out if you have any opportunities or collaborations in mind!
+
+## Contact Details
+
+- Phone: 01095589297
+
+---
+
+Thank you for visiting my GitHub profile!
+
