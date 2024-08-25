@@ -1,10 +1,10 @@
-# Hello! I'm Mhmoud Shaban
+# Hello! I'm Mhmoud Shaban 👋
 
 ## About Me
 
-I am a Vue.js Developer with over 2 years of experience in building interactive and responsive web applications. I am passionate about creating efficient, high-performance solutions and continuously improving my skills to stay current with industry trends and best practices.
+I am a Vue.js Developer with over 2 years of experience in building interactive and responsive web applications. I am passionate about creating efficient, high-performance solutions and continuously improving my skills to stay current with industry trends and best practices. 🚀
 
-## Skills
+## Skills 💡
 
 - **Programming Languages**: HTML5, CSS3, JavaScript
 - **Frameworks**: Vue.js Options API, Composition API, Vuetify
@@ -13,15 +13,15 @@ I am a Vue.js Developer with over 2 years of experience in building interactive 
 - **Libraries and Tools**: jQuery, Bootstrap, Tailwind, Animate.css, GSAP
 - **Databases and Cloud Services**: Linux OS, Postman
 
-## Currently Seeking
+## Currently Seeking 🔍
 
-I am actively looking for new opportunities to apply my skills and contribute to exciting projects. Feel free to connect or reach out if you have any opportunities or collaborations in mind!
+I am actively looking for new opportunities to apply my skills and contribute to exciting projects. Feel free to connect or reach out if you have any opportunities or collaborations in mind! 🌟
 
-## Contact Details
+## Contact Details 📞
 
 - Phone: 01095589297
 
 ---
 
-Thank you for visiting my GitHub profile!
+Thank you for visiting my GitHub profile! 🙌
 
